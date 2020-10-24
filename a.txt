@@ -1,4 +1,0 @@
-isample text
-again a sample
-again  sample
-a
